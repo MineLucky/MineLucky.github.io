@@ -1,0 +1,2 @@
+# MineLucky.github.io
+myBlogs
